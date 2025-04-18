@@ -4,7 +4,7 @@
 - I’m interested in webdev, gamedev, productivity and note-taking software, and pretty much anything that doesn't directly involve iOS.
 - I’m currently improving my C# skills with .NET, learning Ruby, and generally expanding my skillset.
 - Open to collaboration on: games, productivity applications, websites, cli, and web apps.
-- pfp art by jxzzpvunk on toyhouse
+- pfp art by jxzzpvnk on toyhouse
 
 がんばってください皆さん！
 
